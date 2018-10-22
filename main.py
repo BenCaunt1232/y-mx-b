@@ -18,4 +18,5 @@ Slope = SlopeY/SlopeX
 #since we are solving for slope we are putting the b on the left side and letting python work its magic
 b = y1-(Slope*x1)
 print(b)
-print"equation:  y = ","(",SlopeY,"/",SlopeX,")","X +",b
+print("equation:  y =","(",SlopeY,"/",SlopeX,")X+", b)
+
