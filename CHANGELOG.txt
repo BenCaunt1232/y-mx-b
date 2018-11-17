@@ -3,3 +3,5 @@ OCT 21 2018:  Creation of program and repository
 OCT 22 2018 (11:32am EST): Fixed syntax error at end of program 
 
 NOV 11 2018 (1:53pm EST):  added midpoint solver.  
+
+NOV 17 2018 (12:36pm EST):  added a new python file that finds mid point and distance in addition to the slope and y=mx+b form
