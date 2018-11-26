@@ -1,0 +1,3 @@
+for running locally on the computer:  open terminal/cmd.exe and type python filename.py 
+
+for running in the browser go here:  https://repl.it/repls/FrenchGlisteningLoops
